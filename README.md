@@ -14,6 +14,7 @@ Our regression looked into finding if there was a relationship between the time 
 Through our analysis we looked at the average time of encounters based on US regions. We decided to look at the means of those 5 regions, and test if there was a difference between the pairs of means. We did 10 T-tests to and looked at the p-values to conclude if the means between two regions were the same.
 
 Group 2
+
 Abi Chambers
 
 Alejandro Perez
