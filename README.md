@@ -15,6 +15,9 @@ Through our analysis we looked at the average time of encounters based on US reg
 
 Group 2
 Abi Chambers
+
 Alejandro Perez
+
 Carlos De La Rosa
+
 Ann Ly
